@@ -21,18 +21,7 @@ if($_SESSION['logged']==true)
 		<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 		<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
-		<script type="text/javascript" src="sweetalert.js"></script>
-		<meta charset="utf-8" lang="ar,fr">
-		<title>
-		Déclaration à l'entrée
-		</title>
-	</head>
-	<body>
-		<div class="container">
-		<div class="panel panel-default">
-		<p align="center"><b> الجمهــــــوريـــــــــة الجــزائريـــــــــة الـديمقراطــــيــــــة الشعبـــــيـــــــة </b></p>
-		<p align="center"><b> REPUBLIQUE ALGERIENNE DEMOCRATIQUE ET POPULAIRE </b></p>
-		<table border="0" align="center">
+<table border="0" align="center">
 			<tr>
 				<td width="30%">
 					<p align="center" style="font-size: 15px;"><b>MINISTERE DES FINANCES</b></p>
