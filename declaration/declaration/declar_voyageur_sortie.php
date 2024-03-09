@@ -15,28 +15,7 @@
 		</title>
 	</head>
 	<body>
-		<div class="container">
-		<div class="panel panel-default">
-		<p align="center"><b> الجمهــــــوريـــــــــة الجــزائريـــــــــة الـديمقراطــــيــــــة الشعبـــــيـــــــة </b></p>
-		<p align="center"><b> REPUBLIQUE ALGERIENNE DEMOCRATIQUE ET POPULAIRE </b></p>
-		<table border="0" align="center">
-			<tr>
-				<td width="30%">
-					<p align="center" style="font-size: 15px;"><b>MINISTERE DES FINANCES</b></p>
-				    <hr align="center" width="80px" color="black">
-					<p align="center"  ><b>DIRECTION GENERALE DES DOUANES</b></p>
-					<hr align="center" width="80px" color="black">
-				</td>
-				<td width="30%">
-					<p align="center"><img src="douane.jpg"></p>
-				</td>
-				<td width="30%">
-					<p align="center"><b>وزارة المــــاليــــــــة</b></p>
-						<hr align="center" width="80px" color="black">
-						<p align="center"><b>المديريــة العامــة للجمــــارك</b></p>
-						<hr align="center" width="80px" color="black">
-				</td>
-			</tr>
+		
 		</table>
 		<p class="coul" align="center"><b>DECLARATION DE DEVISES ET OBJETS DE VALEUR</b></p>
 	</div>
