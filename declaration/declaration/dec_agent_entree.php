@@ -1,4 +1,4 @@
-<?php
+Ko<?php
 session_start(); // Right at the top of your script
 
 if($_SESSION['logged']==true)
@@ -23,21 +23,7 @@ if($_SESSION['logged']==true)
 		<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
 <table border="0" align="center">
 			<tr>
-				<td width="30%">
-					<p align="center" style="font-size: 15px;"><b>MINISTERE DES FINANCES</b></p>
-				    <hr align="center" width="80px" color="black">
-					<p align="center"  ><b>DIRECTION GENERALE DES DOUANES</b></p>
-					<hr align="center" width="80px" color="black">
-				</td>
-				<td width="30%">
-					<p align="center"><img src="images/douane.jpg"></p>
-				</td>
-				<td width="30%">
-					<p align="center"><b>وزارة المــــاليــــــــة</b></p>
-						<hr align="center" width="80px" color="black">
-						<p align="center"><b>المديريــة العامــة للجمــــارك</b></p>
-						<hr align="center" width="80px" color="black">
-				</td>
+				
 			</tr>
 		</table>
 		<p class="coul" align="center"><b>Déclaration à l'entrée</b></p>
